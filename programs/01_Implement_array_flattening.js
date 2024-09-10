@@ -1,10 +1,10 @@
-function flattenArrayRecursive(arr) {
+const flattenArrayRecursive = (arr) => {
     let result = [];
     for (let i = 0; i < arr.length; i++) {
-        if(Array.isArray(arr[i])){
+        if (Array.isArray(arr[i])) {
             result = result.concat(flattenArrayRecursive(arr[i]));
         }
-        else{
+        else {
             result.push(arr[i]);
         }
     }
