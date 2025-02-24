@@ -1,6 +1,6 @@
 # JavaScript Coding Questions Practice
 
-This repository is a collection of JavaScript utility programs that demonstrate various problem-solving techniques for strings, arrays, and other fundamental programming challenges. It's an ideal resource for practicing your JavaScript skills or as a reference for coding interviews.
+This repository is a collection of JavaScript utility programs that demonstrate various problem-solving techniques for strings, arrays, and other fundamental programming challenges. It's an ideal resource for practicing JavaScript skills or as a reference for coding interviews.
 
 ## Skills Gained
 
