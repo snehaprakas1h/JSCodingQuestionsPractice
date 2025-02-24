@@ -46,8 +46,8 @@ Here are some of the key files and a brief description of what they do:
 
 ## How to Use
 
-1. **Clone the repository:** `git clone https://github.com/snehaprakas1h/JSCodingQuestionsPractice.git`
-2. **Navigate to the directory:** `cd JSCodingQuestionsPractice`
+1. **Clone the repository:** `git clone https://github.com/snehaprakas1h/JSCodingQuestionsPracticeBasic.git`
+2. **Navigate to the directory:** `cd JSCodingQuestionsPracticeBasic`
 3. **Run any JavaScript file:** `node <filename>.js` (e.g., `node 01_Find_duplicates_in_an_array.js`)
 
 ## Contributing
